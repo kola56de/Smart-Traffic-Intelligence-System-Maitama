@@ -84,4 +84,37 @@ pip install -r requirements.txt
 
 3️⃣ Run the Application
 streamlit run dad6.py
+# 📸 Application Screenshots
+
+## 🖥️ Dashboard Overview
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+## 📊 Full Dashboard Sections
+
+![Dashboard 1](assets/dashboard 1.png)
+
+![Dashboard 2](assets/dashboard 2.png)
+
+---
+
+## 🗺️ GIS Route Map
+
+![Map](assets/map.png)
+
+![Map 1](assets/map 1.png)
+
+---
+
+## 🎯 Speed Prediction
+
+![Prediction](assets/predict.png)
+
+---
+
+## 🔄 Route Optimization
+
+![Optimization](assets/optimization.png)
 
