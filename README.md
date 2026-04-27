@@ -94,9 +94,9 @@ streamlit run dad6.py
 
 ## 📊 Full Dashboard Sections
 
-![Dashboard 1](assets/dashboard 1.png)
+![Dashboard 1](assets/dashboard1.png)
 
-![Dashboard 2](assets/dashboard 2.png)
+![Dashboard 2](assets/dashboard2.png)
 
 ---
 
@@ -104,7 +104,7 @@ streamlit run dad6.py
 
 ![Map](assets/map.png)
 
-![Map 1](assets/map 1.png)
+![Map 1](assets/map1.png)
 
 ---
 
