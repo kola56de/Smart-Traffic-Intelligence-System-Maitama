@@ -73,3 +73,15 @@ Traffic-Intelligence-System-/
 │   ├── map 1.png
 │   ├── optimization.png
 │   └── predict.png
+
+⚙️ Installation
+1️⃣ Clone the Repository
+git clone https://github.com/yourusername/Traffic-Intelligence-System-.git
+cd Traffic-Intelligence-System-
+
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+
+3️⃣ Run the Application
+streamlit run dad6.py
+
