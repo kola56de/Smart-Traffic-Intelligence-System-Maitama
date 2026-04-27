@@ -59,42 +59,28 @@ streamlit run dad6.py
 
 ## 📊 Full Dashboard Sections
 
- 
+![Dashboard 1](assets/dashboard1.png)
 
-![dashboard1](assets/dashboard1.png)
-
-![dashboard2](assets/dashboard2.png)
-
-  
+![Dashboard 2](assets/dashboard2.png)
 
 ---
 
 ## 🗺️ GIS Route Map
 
- 
+![Map](assets/map.png)
 
-![map](assets/map.png)
-
-![map1](assets/map1.png)
-
-  
+![Map 1](assets/map1.png)
 
 ---
 
 ## 🎯 Speed Prediction
 
- 
-
-![prediction](assets/predict.png)
-
-  
+![Prediction](assets/predict.png)
 
 ---
 
 ## 🔄 Route Optimization
 
- 
-
-![optimization](assets/optimization.png)
+![Optimization](assets/optimization.png)
 
   
