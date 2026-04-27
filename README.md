@@ -83,4 +83,39 @@ streamlit run dad6.py
 
 ![Map](assets/map.png)
 
-  
+---
+
+## 🧠 Machine Learning Model
+Random Forest Regressor
+
+Input Features
+
+Route Length (km)
+Travel Time (sec)
+
+Predicted Output
+
+Average Speed (km/h)
+
+Evaluation Metrics
+
+R² Score
+Mean Absolute Error (MAE)
+--- 
+
+## 📈 Future Improvements
+Real-time traffic API integration
+Congestion forecasting
+Accident hotspot detection
+Google Maps integration
+Smart city traffic dashboard
+---
+
+## 👨‍💻 Author
+Kolade Olonisakin
+Data Scientist | AI Engineer | GIS Enthusiast
+---
+
+## ⭐ Support
+
+If you found this project useful, kindly star the repository and share feedback.
