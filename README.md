@@ -66,9 +66,9 @@ streamlit run dad6.py
 
 ## 📊 Full Dashboard
 
-Dashboard 1
+![Dashboard](assets/dashboard1.png)
 
-Dashboard 2
+![Dashboard](assets/dashboard2.png)
 
 ---
 
