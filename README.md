@@ -60,7 +60,7 @@ streamlit run dad6.py
 
 ## 🖥️ Dashboard Overview
 
-![Dashboard](assets/Dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
