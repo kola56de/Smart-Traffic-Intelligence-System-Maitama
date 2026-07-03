@@ -74,21 +74,22 @@ streamlit run dad6.py
 
 ## 🎯 Speed Prediction
 
-Prediction
+![Prediction](assets/predict.png)
 
 ---
 
 ## 🔄 Route Optimization
 
-Optimization
+![Optimization](assets/optimization.png)
 
 ---
 
 ## 🗺️ GIS Route Map
 
-Map 1
+![Map](assets/map.png)
 
-Map
+
+![Map](assets/map1.png)
 
 ---
 
