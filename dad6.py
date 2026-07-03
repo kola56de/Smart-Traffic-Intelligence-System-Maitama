@@ -69,8 +69,17 @@ r2 = r2_score(y_test, y_pred)
 mae = mean_absolute_error(y_test, y_pred)
 
 st.subheader("🤖 Model Performance")
-st.write(f"R² Score: {r2:.2f}")
-st.write(f"MAE: {mae:.2f}")
+
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    st.metric("📈 R² Score", f"{r2:.2f}")
+
+with col2:
+    st.metric("📉 MAE", f"{mae:.2f}")
+
+with col3:
+    st.metric("🤖 Model", "Random Forest")
 
 # ----------------------------
 # PREDICTION SECTION
